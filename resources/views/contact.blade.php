@@ -61,8 +61,9 @@
                     </div>
                 </div>
                 <div class="col-md-6">
+                    
                     <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d55001.99524583153!2d75.85696307234565!3d30.50336988855665!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391067c8b5a52e61%3A0x871d0e364930905e!2sBlind%20School%20%2CMalerkotla%2CPunjab!5e0!3m2!1sen!2sin!4v1678371460033!5m2!1sen!2sin"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d20613.232032707172!2d15.3078472132615!3d-4.347670361354479!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1a6a372ad270f377%3A0x74a10295e96aa17e!2sKalamu%2C%20Kinshasa!5e0!3m2!1sfr!2scd!4v1729345326251!5m2!1sfr!2scd"
                     class="rounded shadow" width="100%" height="340" style="border:0;" allowfullscreen="" loading="lazy"
                     referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
