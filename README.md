@@ -4,8 +4,7 @@
 _**Donation**_ is an open-source Laravel-based initiative designed to empower individuals and organizations worldwide to easily initiate charity campaigns. With this project, anyone can create, customize, and launch their own charity platform, enabling the global community to contribute and support causes that matter most.
 
 ## Demo
-You can see the demo [Here](https://demo-donation.techgeeta.com/)
-Or have a quick look from screenshots:
+Have a quick look from screenshots:
 
 |  Page   |   Image       |
 |---------|---------------|
@@ -19,7 +18,7 @@ Or have a quick look from screenshots:
 
 ## Installation guid
 * Clone repo:
-```git clone https://github.com/souravdutt/donation.git```
+```git clone https://github.com/MonkilaTECHNOLOGIE/donation.git```
 
 * Open project
 ```cd donation```
