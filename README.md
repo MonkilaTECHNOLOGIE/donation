@@ -18,17 +18,17 @@ Have a quick look from screenshots:
 
 ## Installation guid
 * Clone repo:
-```git clone https://github.com/MonkilaTECHNOLOGIE/donation.git```
+ ```git clone https://github.com/MonkilaTECHNOLOGIE/donation.git```
 
 * Open project
-```cd donation```
+ ```cd donation```
 
 * Download vendors/libraries
-```composer install```
+ ```composer install```
     * Meanwhile you can create a new Database
 
 * Create `.env` file
-```cp .env.example .env```
+ ```cp .env.example .env```
 
 * Generate app key
 ```php artisan key:generate```
